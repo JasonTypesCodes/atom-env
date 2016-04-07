@@ -6,7 +6,7 @@
       "base16-tomorrow-dark-theme"
     ]
   editor:
-    fontFamily: "Source Code Pro"
+    fontFamily: "Source Code Pro Semibold"
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
