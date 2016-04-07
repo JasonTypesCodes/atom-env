@@ -1,0 +1,20 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "c74b541a-7600-cb23-fb80-48e2624d5f23"
+  "linter-eslint": {}
+  "tidy-tabs":
+    minimumTabs: 8
+    runOnSave: true
+  welcome:
+    showOnStartup: false
