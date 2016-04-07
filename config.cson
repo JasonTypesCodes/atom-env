@@ -1,12 +1,14 @@
 "*":
+  "base16-syntax":
+    scheme: "Irblack"
   core:
     autoHideMenuBar: true
     themes: [
       "atom-dark-ui"
-      "base16-tomorrow-dark-theme"
+      "base16-syntax"
     ]
   editor:
-    fontFamily: "Source Code Pro Semibold"
+    fontFamily: "Source Code Pro"
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
