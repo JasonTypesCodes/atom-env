@@ -13,6 +13,10 @@
   "exception-reporting":
     userId: "c74b541a-7600-cb23-fb80-48e2624d5f23"
   "linter-eslint": {}
+  "linter-jscs":
+    onlyConfig: true
+  "linter-jshint":
+    disableWhenNoJshintrcFileInPath: true
   "tidy-tabs":
     minimumTabs: 8
     runOnSave: true
