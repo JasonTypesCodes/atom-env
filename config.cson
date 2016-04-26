@@ -15,7 +15,6 @@
     ]
   editor:
     fontFamily: "Source Code Pro"
-    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
