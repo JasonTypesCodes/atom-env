@@ -21,6 +21,7 @@
     showIndentGuide: true
   "exception-reporting":
     userId: "c74b541a-7600-cb23-fb80-48e2624d5f23"
+  linter: {}
   "linter-eslint": {}
   "linter-jscs":
     onlyConfig: true
