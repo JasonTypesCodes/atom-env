@@ -1,4 +1,6 @@
 "*":
+  "activate-power-mode":
+    autoToggle: false
   "atom-ctags":
     autoBuildTagsWhenActive: true
   "autocomplete-plus": {}
@@ -15,7 +17,6 @@
     ]
   editor:
     fontFamily: "Source Code Pro"
-    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
