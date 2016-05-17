@@ -9,10 +9,10 @@ language-gherkin@1.0.3
 language-groovy@0.6.0
 linter@1.11.4
 linter-eslint@7.2.2
-linter-jscs@4.0.0
+linter-jscs@4.0.1
 linter-jshint@2.1.0
 multi-cursor@2.1.3
-pigments@0.26.2
+pigments@0.26.3
 tidy-tabs@0.3.0
 
 
