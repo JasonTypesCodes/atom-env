@@ -26,6 +26,7 @@
     errorPanelHeight: 135
   "linter-eslint": {}
   "linter-jscs":
+    displayAs: "warning"
     onlyConfig: true
   "linter-jshint":
     disableWhenNoJshintrcFileInPath: true
