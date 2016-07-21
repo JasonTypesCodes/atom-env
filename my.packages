@@ -1,16 +1,16 @@
 achievements@0.9.0
-atom-ternjs@0.14.1
+atom-ternjs@0.14.2
 autoclose-html@0.23.0
 base16-syntax@1.7.0
 git-log@0.4.1
 git-time-machine@1.5.3
 language-gherkin@1.0.4
 language-groovy@0.6.0
-linter@1.11.4
-linter-eslint@7.2.2
-linter-jscs@4.0.2
+linter@1.11.14
+linter-eslint@7.2.4
+linter-jscs@4.0.5
 linter-jshint@2.1.0
 multi-cursor@2.1.3
-pigments@0.27.1
+pigments@0.31.2
 
 
