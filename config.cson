@@ -5,14 +5,14 @@
     autoBuildTagsWhenActive: true
   "autocomplete-plus": {}
   "base16-syntax":
-    scheme: "Irblack"
+    scheme: "Apathy"
   core:
     autoHideMenuBar: true
     disabledPackages: [
       "symbols-view"
     ]
     themes: [
-      "atom-dark-ui"
+      "flexible-ui"
       "base16-syntax"
     ]
   editor:
@@ -31,6 +31,7 @@
     onlyConfig: true
   "linter-jshint":
     disableWhenNoJshintrcFileInPath: true
+  "one-dark-ui": {}
   "split-diff":
     diffWords: true
     ignoreWhitespace: true
@@ -42,3 +43,12 @@
     runOnSave: true
   welcome:
     showOnStartup: false
+".feature.source":
+  editor:
+    preferredLineLength: 120
+".source.ts":
+  editor:
+    preferredLineLength: 120
+".source.tsx":
+  editor:
+    preferredLineLength: 120
