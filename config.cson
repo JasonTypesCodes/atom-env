@@ -5,18 +5,19 @@
     autoBuildTagsWhenActive: true
   "autocomplete-plus": {}
   "base16-syntax":
-    scheme: "Apathy"
+    scheme: "Colors"
   core:
     autoHideMenuBar: true
     disabledPackages: [
       "symbols-view"
     ]
     themes: [
-      "flexible-ui"
+      "nucleus-dark-ui"
       "base16-syntax"
     ]
   editor:
     fontFamily: "Source Code Pro"
+    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true

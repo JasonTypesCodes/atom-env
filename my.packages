@@ -1,25 +1,18 @@
 achievements@0.9.0
-atom-ternjs@0.14.2
-atom-typescript@10.1.6
+atom-ternjs@0.15.0
+atom-typescript@10.1.7
 autoclose-html@0.23.0
 base16-syntax@1.7.0
-firewatch-green-syntax@1.0.0
-firewatch-hot-syntax@1.3.0
-firewatch-syntax@1.0.1
-flexible-ui@0.10.5
-fox-syntax-theme@1.0.3
 git-log@0.4.1
 git-time-machine@1.5.3
 language-gherkin@1.0.4
 language-groovy@0.6.0
 linter@1.11.16
-linter-eslint@7.2.4
-linter-jscs@4.0.5
-linter-jshint@2.1.0
+linter-eslint@7.3.2
+linter-jscs@4.1.0
+linter-jshint@3.0.0
 multi-cursor@2.1.3
-nucleus-dark-ui@0.9.3
-pigments@0.31.2
-Sids-Syntax-Theme@1.0.0
-sombre-theme@1.0.0
+nucleus-dark-ui@0.10.7
+pigments@0.36.0
 
 
